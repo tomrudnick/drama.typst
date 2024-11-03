@@ -43,7 +43,7 @@ This repository showcases the use of [Typst](https://typst.app/) for formatting 
    )
    ```
 
-   the `characterTable()` function produces a nicely formatted Table of all Characters in the drama.
+   the `character-table()` function produces a nicely formatted Table of all Characters in the drama.
 
    ![Character Table](images/chracter-table.png)
 
