@@ -88,7 +88,7 @@ This repository showcases the use of [Typst](https://typst.app/) for formatting 
 
 4. **Retrieve character speech functions**
 
-   Use the dictionary to retrieve the character speech functions like this:
+   Use the dictionary to retrieve the character speech functions like so:
 
    ```typst
        #let prinzsays = character-speaks.der-prinz
